@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.elsharif.eyesmate"
+    namespace = "com.elsharif.sensorsinandroid"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.elsharif.eyesmate"
+        applicationId = "com.elsharif.sensorsinandroid"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -91,7 +91,6 @@ dependencies {
     implementation("androidx.compose.material:material-icons-extended:1.5.4")
 
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
-
 
 
 }
