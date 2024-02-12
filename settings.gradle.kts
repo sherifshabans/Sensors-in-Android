@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EyesMate"
+rootProject.name = "Sensors in Android"
 include(":app")
  

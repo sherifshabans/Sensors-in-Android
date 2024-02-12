@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">EyesMate</string>
+    <string name="app_name">Sensors in Android</string>
     <string name="light_name">Light Sensor</string>
     <string name="light_screen_name">Light Sensor Screen </string>
     <string name="accelerometer_name">Accelerometer Sensor</string>
-    <string name="accelerometer_screen_name">Accelerometer Sensor Screen</string>
+    <string name="proximity_name">Proximity Sensor</string>
 </resources>
