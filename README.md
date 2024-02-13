@@ -1,5 +1,5 @@
 
-#Sensors in Android
+# Sensors in Android
 
 ## Types of Sensors
 
