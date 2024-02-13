@@ -1,4 +1,6 @@
-# Types of Sensors
+#Sensors in Android
+## Types of Sensors
+
 
 ## 1. Physical Sensors
 These are hardware components physically present on the device. Examples include accelerometers, gyroscopes, and magnetometers.
